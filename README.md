@@ -1,3 +1,7 @@
+Скачать репозиторий 
+
+`git clone https://github.com/alexmihalyk23/for_slava`
+
 Установить библиотеки 
 
 `pip install -r requirements.txt`
